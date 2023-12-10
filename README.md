@@ -4,7 +4,9 @@ Penugasa Genetic Algorithm untuk klasifikasi PCOS dan Algoritma Heuristik untuk 
 
 # Anggota Kelompok
 Dwi Bagas Nugroho (5311421029)
+
 Agus Ardiyanto (5311421051)
+
 Raditya Wisnu Wardhana (5311421059)
 
 # Pendahuluan
